@@ -8,17 +8,15 @@ I'm an indie Full-Stack Developer & Machine Learning Enthusiast from India . My 
 - 👯 I’m looking to collaborate on MERN projects.
 - 💼 Any freelance work ? do reach [Email](mailto:ansar.ofcl00@gmail.com)
 
-<!-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Dev](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white) -->
-
 <a href="https://www.linkedin.com/in/mohammad-ansar-4ab39421a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://instagram.com/ansar_jarvis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://dev.to/ansarjarvis"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 ---
 
-<h2>🧰 Languages and Tools</h2>
+<!-- <h2>🧰 Languages and Tools</h2> -->
+
+**🧰 Languages and Tools**
 
 <br>
 
@@ -83,7 +81,8 @@ I'm an indie Full-Stack Developer & Machine Learning Enthusiast from India . My 
 ---
 
 <!-- ## 📊 Stats -->
-<h2>📊 Stats</h2>
+
+**📊 Stats**
 
 <br>
 
@@ -96,3 +95,8 @@ I'm an indie Full-Stack Developer & Machine Learning Enthusiast from India . My 
 <a  href = "https://github.com/ansarjarvis">
 <img  width = 400 src= "https://streak-stats.demolab.com?user=ansarjarvis&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
+
+---
+
+<br>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
