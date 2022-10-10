@@ -18,7 +18,9 @@ I'm an indie Full-Stack Developer & Machine Learning Enthusiast from India . My 
 
 ---
 
-## 🧰 Languages and Tools
+<h2>🧰 Languages and Tools</h2>
+
+<br>
 
 <span>
 <img  width=30px style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -80,7 +82,10 @@ I'm an indie Full-Stack Developer & Machine Learning Enthusiast from India . My 
 
 ---
 
-## 📊 Stats
+<!-- ## 📊 Stats -->
+<h2>📊 Stats</h2>
+
+<br>
 
 <a href = "https://github.com/ansarjarvis">
 <img width = 400 src= "https://github-readme-stats.vercel.app/api?username=ansarjarvis&count_private=true&show_icons=true&theme=radical"/>
