@@ -2,11 +2,11 @@
 
 ### _`Full Stack Software Developer/ (ML/AI) Enthusiast`_
 
-I'm an indie Full-Stack Software Developer & Machine Learning Enthusiast from India . My passion for software lies with dreaming up ideas and making them come true.
+I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from India. My passion lies in conceptualizing ideas and transforming them into real-world applications through code.
 
-- 🔭 Passionate about combining technologies with real world impact.
-- 👯 I’m looking to collaborate projects that solve Problems.
-- 💼 Any freelance work ? do reach [Email](mailto:ansar.ofcl00@gmail.com)
+- 🔭 Passionate about integrating technology to create meaningful impact.
+- 👯 Looking to collaborate on projects that solve real-world problems.
+- 💼 Open for freelance opportunities. Feel free to reach out via [Email](mailto:ansar.ofcl00@gmail.com)
 
 <a href="https://www.linkedin.com/in/mohammad-ansar-4ab39421a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://instagram.com/ansar_jarvis"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
