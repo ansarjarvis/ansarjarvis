@@ -4,8 +4,8 @@
 
 I'm an indie Full-Stack Software Developer & Machine Learning Enthusiast from India . My passion for software lies with dreaming up ideas and making them come true.
 
-- 🔭 I’m currently learning ML/AI , MERN stack.
-- 👯 I’m looking to collaborate on MERN/(ML/AI) projects.
+- 🔭 Passionate about combining technologies with real world impact.
+- 👯 I’m looking to collaborate projects that solve Problems.
 - 💼 Any freelance work ? do reach [Email](mailto:ansar.ofcl00@gmail.com)
 
 <a href="https://www.linkedin.com/in/mohammad-ansar-4ab39421a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
