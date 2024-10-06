@@ -98,9 +98,9 @@ I'm an indie Full-Stack Software Developer and Machine Learning Enthusiast from 
 <!-- <a href = "https://github.com/ansarjarvis">
 <img width = 400 src= "https://github-readme-stats.vercel.app/api?username=ansarjarvis&count_private=true&show_icons=true&theme=radical"/>
 </a> -->
-<a href = "https://github.com/ansarjarvis">
+<!-- <a href = "https://github.com/ansarjarvis">
 <img width = 450 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ansarjarvis&langs_count=6&layout=compact&theme=algolia"/>
-</a>
+</a> -->
 
 <a  href = "https://github.com/ansarjarvis">
 <img  width = 450  src= "https://streak-stats.demolab.com?user=ansarjarvis&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>
